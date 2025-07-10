@@ -39,6 +39,6 @@
 ## 使用方法
 
 ```bash
-    chmod +x sssss
+    测试md文件的语法
 ```
 <!-- ![image](tu1.png)    -->
