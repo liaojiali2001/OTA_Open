@@ -1,0 +1,2 @@
+../Drivers/USER/LED/Bsp_led.c:5:7:pfLED0_Set_PinLevel	16	static
+../Drivers/USER/LED/Bsp_led.c:13:7:pfLED1_Set_PinLevel	16	static

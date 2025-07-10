@@ -1,0 +1,9 @@
+../Drivers/USER/Ymodem/Ymodem.c:11:6:update_JumpToApplication	16	static,ignoring_inline_asm
+../Drivers/USER/Ymodem/Ymodem.c:63:7:ymodem_PrintProgress	24	static
+../Drivers/USER/Ymodem/Ymodem.c:83:6:ymodem_SendCMD	24	static
+../Drivers/USER/Ymodem/Ymodem.c:98:6:ymodem_InfoAnalysis	8	static
+../Drivers/USER/Ymodem/Ymodem.c:195:6:HandleSOH_STX	24	static
+../Drivers/USER/Ymodem/Ymodem.c:233:6:ymodem_DataFrameAnalysis	24	static
+../Drivers/USER/Ymodem/Ymodem.c:244:6:ymodem_InitialFrameAnalysis	24	static
+../Drivers/USER/Ymodem/Ymodem.c:282:7:ymodem_EndFrameAnalysis	24	static
+../Drivers/USER/Ymodem/Ymodem.c:316:10:ymodem_Crc16	24	static

@@ -1,0 +1,2 @@
+../Drivers/USER/USART_DMA/UARTConfig.c:4:6:uartYmodemInit	1
+../Drivers/USER/USART_DMA/UARTConfig.c:11:6:HAL_UARTEx_RxEventCallback	2

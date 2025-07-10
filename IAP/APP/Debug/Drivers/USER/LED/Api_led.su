@@ -1,0 +1,4 @@
+../Drivers/USER/LED/Api_led.c:48:6:LED_Init_User	8	static
+../Drivers/USER/LED/Api_led.c:55:6:LED_Handler_User	8	static
+../Drivers/USER/LED/Api_led.c:66:6:LED0_Register	24	static
+../Drivers/USER/LED/Api_led.c:73:6:LED1_Register	24	static
